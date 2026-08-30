@@ -111,6 +111,7 @@ This is a community-maintained list and is not affiliated with [superradcompany]
 - [microsandbox-tui](https://github.com/cfranzen/microsandbox-tui) - Terminal UI for managing sandboxes.
 - [hoosegow](https://github.com/billroy/hoosegow) - PTY-first terminal manager for coding agents.
 - [omarchy-microsandbox](https://github.com/ya-luotao/omarchy-microsandbox) - Omarchy shell plugin for managing microVMs from the bar.
+- [msb-omarchy](https://github.com/ya-luotao/msb-omarchy) - The Omarchy desktop (Hyprland + Quickshell) running inside a microsandbox microVM on Apple Silicon, in a native macOS window or over VNC.
 - [vivarium-cli](https://github.com/assaf-benjosef/vivarium-cli) - CLI for managing Vivarium sandboxes via microsandbox.
 
 ## Testing and Benchmarks

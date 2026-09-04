@@ -67,7 +67,7 @@ This is a community-maintained list and is not affiliated with [superradcompany]
 
 ## Coding Agents in Sandboxes
 
-- [agents-sandbox](https://github.com/inoio/agents-sandbox) - Run coding agents (opencode, pi, claude-code) inside a microsandbox VM, provide dev dependencies via Dockerfile, easy network rules, host mounts, agent configuration, lots of convenience.
+- [agents-sandbox](https://github.com/inoio/agents-sandbox) - Secure runner for coding agents (opencode, claude, pi) in a VM, optimized for dev/user experience.
 - [agent-sandbox](https://github.com/butterflyskies/agent-sandbox) - OCI image for running Claude Code, Codex, Gemini, and OpenCode in microsandbox.
 - [agent-vm by Wiren Board](https://github.com/wirenboard/agent-vm) - Sandboxed VMs for AI coding agents (Claude Code, Codex CLI, OpenCode).
 - [micro-pi](https://github.com/asyrjasalo/micro-pi) - Run the Pi coding agent inside a microsandbox VM.
